@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://beckerdo.github.io/sitemap.xml 
