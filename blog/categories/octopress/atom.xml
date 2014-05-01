@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Octopress | Dan's GitHub Blog]]></title>
+  <link href="http://beckerdo.github.io/blog/categories/octopress/atom.xml" rel="self"/>
+  <link href="http://beckerdo.github.io/"/>
+  <updated>2014-05-01T10:15:20-05:00</updated>
+  <id>http://beckerdo.github.io/</id>
+  <author>
+    <name><![CDATA[Dan Becker]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Always Update Cloned Octopress Reposw With Rake]]></title>
+    <link href="http://beckerdo.github.io/blog/2014/05/01/always-update-cloned-octopress-reposw-with-rake/"/>
+    <updated>2014-05-01T10:13:05-05:00</updated>
+    <id>http://beckerdo.github.io/blog/2014/05/01/always-update-cloned-octopress-reposw-with-rake</id>
+    <content type="html"><![CDATA[<p>If you clone this directory, make sure you use rake to update Git repos
+information.
+rake setup_github_pages</p>
+
+<p>This ensures that the master branch is used for the publish directory of the
+blog, and the source branch is used for new posts and pages.</p>
+
+<p>Then use rake generate and rake deploy to handle the push to GitHub.</p>
+]]></content>
+  </entry>
+  
+</feed>
