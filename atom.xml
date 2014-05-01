@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Dan's GitHub Blog]]></title>
+  <link href="http://beckerdo.github.io/atom.xml" rel="self"/>
+  <link href="http://beckerdo.github.io/"/>
+  <updated>2014-05-01T09:18:28-05:00</updated>
+  <id>http://beckerdo.github.io/</id>
+  <author>
+    <name><![CDATA[Dan Becker]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[A Blog Created With OctoPress]]></title>
+    <link href="http://beckerdo.github.io/blog/2014/05/01/a-blog-created-with-octopress/"/>
+    <updated>2014-05-01T09:01:55-05:00</updated>
+    <id>http://beckerdo.github.io/blog/2014/05/01/a-blog-created-with-octopress</id>
+    <content type="html"><![CDATA[<p>If this blog format looks familiar, it is created with the common blog software Octopress.
+GitHub.io is acting as the host for my blog.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[A New Blog]]></title>
+    <link href="http://beckerdo.github.io/blog/2014/05/01/a-new-blog/"/>
+    <updated>2014-05-01T08:50:18-05:00</updated>
+    <id>http://beckerdo.github.io/blog/2014/05/01/a-new-blog</id>
+    <content type="html"><![CDATA[<p>This is the first post for this blog.
+This blog is meant to contain posts
+regarding technology and software development.</p>
+]]></content>
+  </entry>
+  
+</feed>
